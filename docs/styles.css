@@ -1,0 +1,22 @@
+/* css styles */
+.navbar-dark, .quarto-title-banner {
+  background-color: #D9D9D9;
+}
+
+/* Change the color of the title */
+.quarto-title-banner h1 {
+  color: #1B3554; /* Replace with the desired color */
+}
+
+h2 {
+  color: #1B3554;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Avenir Next', sans-serif; /* Ensure titles match body font */
+  color: #1B3554;
+
+}
+.navbar {
+  background-color: #1B3554;  /* Change to your desired color */
+}

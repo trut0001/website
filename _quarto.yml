@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Travis Rutledge"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - icon: github
+        href: https://github.com/travisrutledge
+      - icon: linkedin
+        href: https://www.linkedin.com/in/travisrutledge/
+
+format:
+  html:
+    theme: sandstone
+    mainfont: avenir next
+    fontsize: 1.1rem
+    fontcolor: "#222222"
+    linkcolor: "#325573"
+    monofont: avenir next
+    css: styles.css
+
+editor: visual

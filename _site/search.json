@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Travis Rutledge",
+    "section": "",
+    "text": "Hi there! My name is Travis Rutledge, and I am a data analytics professional with 10 years of experience in transforming complex data into actionable insights. Proficient in data transformation, visualisation, dashboard development, Tableau, SQL, R, and Alteryx, I enjoy creating innovative tools that enhance operational efficiency. I’ve previously worked for Amazon, Goodwill Industries International, and International Justice Mission. I’m currently a graduate student in the Master in Business Analytics course at Monash University in Melbourne, Australia."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog Template",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "blogpost.html",
+    "href": "blogpost.html",
+    "title": "blog",
+    "section": "",
+    "text": "Article A - The Green Divide: How Wealth Buys Shade in a Warming World The article studied here is titled “The Green Divide: How Wealth Buys Shade in a Warming World” by Kate Newton, and it is available online from Stuff.co.nz. Stuff is a New Zealand news media website, whose parent company is a media conglomerate named Stuff Ltd. This is considered “print media” because Stuff sources their articles from Stuff Ltd newspapers, such as The Post and The Press. The article summarises how tree shade is an important counter to global warming. The article provides visualisations showing how high-income neighbourhoods have more access to tree shade while low-income neighbourhoods have less access to tree shade. The first six paragraphs are background information as to why tree shade is better at lowering temperatures than other shade. It does this through three methods. First, the author invites the reader to imagine a hot day and asks if they would prefer sitting under the shade of a building or a tree. Second, the author provides a quote from a professor on urban forestry, where he states his preference for the shade of a tree. Third, the author provides a graphic showing how trees provide better cooling than buildings because of their shade and evaporation of rainwater. This context is useful because it explains why tree shade is important and why it is a problem that tree shade is less available for poor communities. The lede is located in the first sentence of the article and just below the graphic title, which is normal for printed media. It is bolded to catch the reader’s attention. This lede provides further meaning to the title, stating: “The cooling shade of trees will be crucial to adapting to climate change. But data from New Zealand cities shows tree cover is uneven — and often dictated by wealth.” The summary is found after the background information. It states: “At a more fundamental level, wealth often corresponds to whether you live in a cool neighbourhood or a hot one. Shade and prosperity are linked together in the phrase ‘leafy suburbs,’ used as a byword for New Zealand’s well-heeled, established neighbourhoods.” The article then provides more details, maps, and other visualisations to support the statement that shade is more available in rich communities. It is assumed that the reader either be from New Zealand, live in New Zealand, or have knowledge of the different cities and neighbourhoods of New Zealand. The main result of the story is a call to action for local governments to be mindful of tree shade as they develop communities. The purpose of the article is to equip the public and decision-makers with information so that they can affect change for all communities, not just those that are affluent. The main result is located in is the last paragraph of the article: “What tree canopy mapping can do, though, is show where trees are and aren’t — and how that is changing. “If [councils] know that there are neighbourhoods that only have four per cent canopy cover, they would hopefully see it as their responsibility to increase canopy cover in that area.”"
+  }
+]
